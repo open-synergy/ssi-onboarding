@@ -4,7 +4,7 @@
 {
     "name": "Onboarding Test",
     "version": "14.0.1.0.0",
-    "category": "Assestment",
+    "category": "Test",
     "website": "https://simetri-sinergi.id",
     "author": "PT. Simetri Sinergi Indonesia, OpenSynergy Indonesia",
     "license": "LGPL-3",
